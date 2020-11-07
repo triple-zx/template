@@ -1,0 +1,75 @@
+archive: data.zip
+checker: custom
+test_cases:
+- batched:
+  - in: 01.in
+    out: 01.out
+  points: 0
+- batched:
+  - in: 02.in
+    out: 02.out
+  - in: 03.in
+    out: 03.out
+  - in: 04.in
+    out: 04.out
+  - in: 05.in
+    out: 05.out
+  points: 5
+- batched:
+  - in: 06.in
+    out: 06.out
+  - in: 07.in
+    out: 07.out
+  - in: 08.in
+    out: 08.out
+  - in: 09.in
+    out: 09.out
+  points: 15
+- batched:
+  - in: 10.in
+    out: 10.out
+  - in: 11.in
+    out: 11.out
+  - in: 12.in
+    out: 12.out
+  - in: 13.in
+    out: 13.out
+  points: 10
+- batched:
+  - in: 14.in
+    out: 14.out
+  - in: 15.in
+    out: 15.out
+  - in: 16.in
+    out: 16.out
+  - in: 17.in
+    out: 17.out
+  - in: 18.in
+    out: 18.out
+  points: 30
+- batched:
+  - in: 19.in
+    out: 19.out
+  - in: 20.in
+    out: 20.out
+  - in: 21.in
+    out: 21.out
+  - in: 22.in
+    out: 22.out
+  - in: 23.in
+    out: 23.out
+  - in: 24.in
+    out: 24.out
+  - in: 25.in
+    out: 25.out
+  - in: 26.in
+    out: 26.out
+  - in: 27.in
+    out: 27.out
+  - in: 28.in
+    out: 28.out
+  - in: 29.in
+    out: 29.out
+  - in: 30.in
+    out: 30.out
+  points: 40
